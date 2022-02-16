@@ -61,3 +61,9 @@ npm start
 
 Navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
 
+## Running the dockerfiles on local
+
+```
+docker-compose up --build
+```
+
